@@ -11,7 +11,7 @@
    which was the protocol run on the test dataset provided.
 */
 
-// SETUP STEPS
+// SETUP STEPS ffobar
 
 // Declare pipeline parameters
 reads = "$baseDir/data/*_R{1,2}.fastq.gz"
